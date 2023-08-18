@@ -1,0 +1,16 @@
+PODS:
+  - ZQMixedModule (0.1.0)
+
+DEPENDENCIES:
+  - ZQMixedModule (from `../`)
+
+EXTERNAL SOURCES:
+  ZQMixedModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZQMixedModule: 53aa8d44965686fd08032f1acee0cbf2e3e84295
+
+PODFILE CHECKSUM: 2dde9f5b5c9a9be49d3344685d14dbb636005c96
+
+COCOAPODS: 1.11.3
